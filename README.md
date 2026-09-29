@@ -66,7 +66,7 @@ postmortem-link/
 ├── memory.py
 ├── test_memory.py
 ├── requirements.txt
-├── .env
+├── ├── .gitignoregit 
 └── static/
     ├── index.html
     ├── app.js
